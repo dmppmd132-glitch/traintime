@@ -1,0 +1,21 @@
+{
+  "id": "/ko",
+  "name": "대만 철도 시간표 검색",
+  "short_name": "철도 시간표",
+  "description": "대만 철도, 고속철도, 공항 MRT 및 버스 운행 정보를 빠르게 검색합니다.",
+  "lang": "ko",
+  "dir": "ltr",
+  "start_url": "/ko",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["standalone", "browser"],
+  "orientation": "portrait",
+  "theme_color": "#212529",
+  "background_color": "#ffffff",
+  "prefer_related_applications": false,
+  "icons": [
+    { "src": "/images/icons/pwa-icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/images/icons/pwa-icon-192-maskable.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "/images/icons/pwa-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
